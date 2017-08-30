@@ -1,0 +1,6 @@
+## How to break coding lines
+## In this example i would be using the print
+print("Hello programmer.\nToday I would like to show you how to break lines in your codes.\n")
+## Your result should look like this
+Hello programmer.
+Today I would like to show you how to break lines in your codes.
